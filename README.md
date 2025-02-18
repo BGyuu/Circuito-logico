@@ -1,5 +1,5 @@
 # Circuito-logico
 
-Bruno Gualberto 
-Danilo Gouvea
+Bruno Gualberto, 
+Danilo Gouvea,
 João Luis
